@@ -7,17 +7,16 @@
 ## 2. 核心看板展示
 ### A. 销售分析页
 分析各客群（Consumer, Corporate, Home Office）的销售额分布，并监控年度销售额的时间序列增长趋势。
-![销售分析](<img width="2078" height="1434" alt="image" src="https://github.com/user-attachments/assets/a216da5f-82fd-4f63-b965-b157111047ac" />
-)
+![销售分析](销售分析.png)
 
 ### B. 产品分析页
 利用树状图（Treemap）展示客群占比，并通过堆叠面积图监控 Top 5 热门产品的销售走势。
-![产品分析](<img width="2074" height="1432" alt="image" src="https://github.com/user-attachments/assets/2ef1f79e-f333-4846-920d-91b09829f1a9" />
+![产品分析](产品分析.png
 )
 
 ### C. 客户与区域分析页
 聚焦核心城市（如 New York City）的销售贡献，下钻分析各区域（East, Central, West, South）的季度增长动能。
-![客户分析](<img width="2084" height="1438" alt="image" src="https://github.com/user-attachments/assets/46fd238d-5f0b-4e72-959d-6f3587a704a4" />
+![客户分析](客户分析.png
 )
 
 ## 3. 技术实现细节
